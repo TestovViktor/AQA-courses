@@ -1,1 +1,1 @@
-# AQA-courses
+QA Automation Python
